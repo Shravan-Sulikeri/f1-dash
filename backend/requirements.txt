@@ -1,0 +1,8 @@
+fastapi~=0.115.0
+uvicorn[standard]~=0.30.0
+duckdb~=1.1.0
+pydantic~=2.8.0
+python-multipart~=0.0.9
+# Align with pydantic/fastapi on Python 3.13
+typing-extensions>=4.12.2
+

@@ -1,0 +1,36 @@
+{
+  "model": "rf",
+  "feature_list": [
+    "grid_position",
+    "track_temp_c",
+    "rain_probability",
+    "driver_avg_finish_last_3",
+    "driver_points_last_3",
+    "driver_points_to_date",
+    "team_points_last_3",
+    "team_points_to_date",
+    "driver_track_avg_finish_last_3_at_gp",
+    "driver_track_points_last_3_at_gp",
+    "team_track_points_last_3_at_gp",
+    "grid_position_norm"
+  ],
+  "val_scores": {
+    "roc_auc": 0.9889082209656372,
+    "log_loss": 0.07990735985252273,
+    "hit1": 0.7272727272727273,
+    "hit3": 0.9545454545454546
+  },
+  "test_scores": {
+    "roc_auc": 0.9399064769674659,
+    "log_loss": 0.11833318134960243,
+    "hit1": 0.4166666666666667,
+    "hit3": 0.8333333333333334
+  },
+  "holdout_scores": {},
+  "splits": {
+    "train": "2018-2022",
+    "val": "2023",
+    "test": "2024",
+    "holdout": "2025"
+  }
+}

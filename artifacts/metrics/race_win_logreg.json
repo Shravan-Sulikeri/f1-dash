@@ -1,0 +1,39 @@
+{
+  "model_name": "race_win_logreg",
+  "table_name": "tmp_ml_race_win",
+  "label_col": "target_win_race",
+  "feature_cols": [
+    "grid_position",
+    "grid_position_norm",
+    "driver_points_pre",
+    "team_points_pre",
+    "track_temp_c",
+    "rain_probability",
+    "starting_compound_index",
+    "driver_avg_finish_last_3",
+    "driver_points_last_3",
+    "team_points_last_3",
+    "driver_track_avg_finish_last_3_at_gp",
+    "driver_track_points_last_3_at_gp",
+    "team_track_points_last_3_at_gp"
+  ],
+  "n_rows": 819,
+  "n_train": 655,
+  "n_test": 164,
+  "positive_fraction": 0.05616605616605617,
+  "metrics": {
+    "accuracy": 0.975609756097561,
+    "f1": 0.7142857142857143,
+    "roc_auc": 0.9627240143369176
+  },
+  "ranking": {
+    "races_evaluated": 9,
+    "races_ignored": 36,
+    "hit_at_1": 0.8888888888888888,
+    "hit_at_3": 1.0,
+    "avg_true_rank": 1.1111111111111112
+  },
+  "season_min": 2023,
+  "season_max": 2024,
+  "created_at_utc": "2025-12-05T21:44:24.185988"
+}

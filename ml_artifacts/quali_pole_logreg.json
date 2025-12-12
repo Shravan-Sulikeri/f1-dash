@@ -1,0 +1,28 @@
+{
+  "model_name": "quali_pole_logreg",
+  "table_name": "features.quali_top3_training",
+  "label_col": "target_pole",
+  "feature_cols": [
+    "driver_points_pre",
+    "team_points_pre"
+  ],
+  "n_rows": 884,
+  "n_train": 707,
+  "n_test": 177,
+  "positive_fraction": 0.05090497737556561,
+  "metrics": {
+    "accuracy": 0.8361581920903954,
+    "f1": 0.32558139534883723,
+    "roc_auc": 0.8935185185185185
+  },
+  "ranking": {
+    "races_evaluated": 9,
+    "races_ignored": 35,
+    "hit_at_1": 0.5555555555555556,
+    "hit_at_3": 1.0,
+    "avg_true_rank": 1.4444444444444444
+  },
+  "season_min": 2023,
+  "season_max": 2024,
+  "created_at_utc": "2025-12-05T21:44:24.269527"
+}

@@ -1,0 +1,32 @@
+{
+  "model_name": "race_top3_logreg",
+  "table_name": "features.race_top3_training",
+  "label_col": "target_race_top3",
+  "feature_cols": [
+    "driver_points_pre",
+    "team_points_pre",
+    "grid_position",
+    "track_temp_c",
+    "rain_probability",
+    "starting_compound_index"
+  ],
+  "n_rows": 819,
+  "n_train": 655,
+  "n_test": 164,
+  "positive_fraction": 0.1684981684981685,
+  "metrics": {
+    "accuracy": 0.8353658536585366,
+    "f1": 0.18181818181818182,
+    "roc_auc": 0.899422268907563
+  },
+  "ranking": {
+    "races_evaluated": 23,
+    "races_ignored": 22,
+    "hit_at_3": 1.0,
+    "hit_at_5": 1.0,
+    "avg_mean_rank": 1.3478260869565217
+  },
+  "season_min": 2023,
+  "season_max": 2024,
+  "created_at_utc": "2025-12-05T21:44:24.243188"
+}

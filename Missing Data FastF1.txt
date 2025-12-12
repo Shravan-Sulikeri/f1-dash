@@ -1,0 +1,343 @@
+year=2024, event=Australian Grand Prix, session=FP2: only 19 driver laps present
+year=2024, event=Australian Grand Prix, session=FP2: export failed: Incomplete lap data for Australian Grand Prix FP2: only 19 driver laps present
+year=2024, event=Australian Grand Prix, session=FP2: only 19 driver laps present
+year=2024, event=Australian Grand Prix, session=FP3: only 19 drivers loaded
+year=2024, event=Australian Grand Prix, session=FP3: export failed: Missing driver data for Australian Grand Prix FP3: only 19 drivers loaded
+year=2024, event=Australian Grand Prix, session=FP2: only 19 driver laps present
+year=2024, event=Australian Grand Prix, session=FP3: only 19 drivers loaded
+year=2024, event=Australian Grand Prix, session=FP3: only 19 driver laps present
+year=2024, event=Australian Grand Prix, session=Q: only 19 drivers loaded
+year=2024, event=Australian Grand Prix, session=Q: only 19 driver laps present
+year=2024, event=Australian Grand Prix, session=R: only 19 drivers loaded
+year=2024, event=Australian Grand Prix, session=R: only 19 driver laps present
+year=2024, event=Japanese Grand Prix, session=FP2: only 13 driver laps present
+year=2024, event=Chinese Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2024, event=Chinese Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2024, event=Miami Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2024, event=Miami Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2024, event=Austrian Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2024, event=Austrian Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2024, event=Dutch Grand Prix, session=Q: only 19 driver laps present
+year=2024, event=United States Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2024, event=United States Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2024, event=Mexico City Grand Prix, session=FP2: only 19 driver laps present
+year=2024, event=São Paulo Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2024, event=São Paulo Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2024, event=São Paulo Grand Prix, session=R: only 19 driver laps present
+year=2024, event=Qatar Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2024, event=Qatar Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2024, event=Australian Grand Prix, session=R: only 19 drivers loaded
+year=2024, event=Australian Grand Prix, session=FP2: only 19 driver laps present
+year=2024, event=Australian Grand Prix, session=FP3: only 19 drivers loaded
+year=2024, event=Australian Grand Prix, session=FP3: only 19 driver laps present
+year=2024, event=Australian Grand Prix, session=Q: only 19 drivers loaded
+year=2024, event=Australian Grand Prix, session=Q: only 19 driver laps present
+year=2024, event=Australian Grand Prix, session=R: only 19 drivers loaded
+year=2024, event=Australian Grand Prix, session=R: only 19 driver laps present
+year=2024, event=Japanese Grand Prix, session=FP2: only 13 driver laps present
+year=2024, event=Chinese Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2024, event=Chinese Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2024, event=Miami Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2024, event=Miami Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2024, event=Austrian Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2024, event=Austrian Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2024, event=Dutch Grand Prix, session=Q: only 19 driver laps present
+year=2024, event=United States Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2024, event=United States Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2024, event=Mexico City Grand Prix, session=FP2: only 19 driver laps present
+year=2024, event=São Paulo Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2024, event=São Paulo Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2024, event=São Paulo Grand Prix, session=R: only 19 driver laps present
+year=2024, event=Qatar Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2024, event=Qatar Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2024, event=Bahrain Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2024, event=Bahrain Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2024, event=Saudi Arabian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2024, event=Saudi Arabian Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2024, event=Australian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2024, event=Australian Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2024, event=Australian Grand Prix, session=Q: only 19 drivers loaded
+year=2024, event=Australian Grand Prix, session=Q: only 19 driver laps present
+year=2024, event=Australian Grand Prix, session=R: only 19 drivers loaded
+year=2024, event=Australian Grand Prix, session=R: only 19 driver laps present
+year=2024, event=Japanese Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2024, event=Japanese Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2024, event=Emilia Romagna Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2024, event=Emilia Romagna Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2024, event=Monaco Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2024, event=Monaco Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2024, event=Canadian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2024, event=Canadian Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2024, event=Spanish Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2024, event=Spanish Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2024, event=British Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2024, event=British Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2024, event=Hungarian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2024, event=Hungarian Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2024, event=Belgian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2024, event=Belgian Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2024, event=Dutch Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2024, event=Dutch Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2024, event=Dutch Grand Prix, session=Q: only 19 driver laps present
+year=2024, event=Italian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2024, event=Italian Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2024, event=Azerbaijan Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2024, event=Azerbaijan Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2024, event=Singapore Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2024, event=Singapore Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2024, event=Mexico City Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2024, event=Mexico City Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2024, event=São Paulo Grand Prix, session=R: only 19 driver laps present
+year=2024, event=Las Vegas Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2024, event=Las Vegas Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2024, event=Abu Dhabi Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2024, event=Abu Dhabi Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Saudi Arabian Grand Prix, session=FP3: only 19 driver laps present
+year=2023, event=Australian Grand Prix, session=FP2: only 19 driver laps present
+year=2023, event=Azerbaijan Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2023, event=Azerbaijan Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2023, event=Canadian Grand Prix, session=FP1: only 16 driver laps present
+year=2023, event=Austrian Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2023, event=Austrian Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2023, event=British Grand Prix, session=FP2: only 19 driver laps present
+year=2023, event=Belgian Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2023, event=Belgian Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2023, event=Dutch Grand Prix, session=FP3: only 19 driver laps present
+year=2023, event=Singapore Grand Prix, session=R: only 19 driver laps present
+year=2023, event=Qatar Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2023, event=Qatar Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2023, event=Qatar Grand Prix, session=R: only 19 driver laps present
+year=2023, event=United States Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2023, event=United States Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2023, event=São Paulo Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2023, event=São Paulo Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2023, event=Las Vegas Grand Prix, session=FP1: only 19 driver laps present
+year=2023, event=Bahrain Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Bahrain Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Saudi Arabian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Saudi Arabian Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Australian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Australian Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Azerbaijan Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Azerbaijan Grand Prix, session=S: only 19 driver laps present
+year=2023, event=Miami Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Miami Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Monaco Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Monaco Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Spanish Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Spanish Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Canadian Grand Prix, session=FP1: only 16 driver laps present
+year=2023, event=Canadian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Canadian Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Austrian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=British Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=British Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Hungarian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Hungarian Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Belgian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Dutch Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Dutch Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Italian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Italian Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Singapore Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Singapore Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Singapore Grand Prix, session=R: only 19 driver laps present
+year=2023, event=Japanese Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Japanese Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Qatar Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Qatar Grand Prix, session=R: only 19 driver laps present
+year=2023, event=United States Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Mexico City Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Mexico City Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=São Paulo Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Las Vegas Grand Prix, session=FP1: only 19 driver laps present
+year=2023, event=Las Vegas Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Las Vegas Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Abu Dhabi Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Abu Dhabi Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Saudi Arabian Grand Prix, session=FP3: only 19 driver laps present
+year=2023, event=Australian Grand Prix, session=FP2: only 19 driver laps present
+year=2023, event=Azerbaijan Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2023, event=Azerbaijan Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2023, event=Canadian Grand Prix, session=FP1: only 16 driver laps present
+year=2023, event=Austrian Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2023, event=Austrian Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2023, event=British Grand Prix, session=FP2: only 19 driver laps present
+year=2023, event=Belgian Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2023, event=Belgian Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2023, event=Dutch Grand Prix, session=FP3: only 19 driver laps present
+year=2023, event=Singapore Grand Prix, session=R: only 19 driver laps present
+year=2023, event=Qatar Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2023, event=Qatar Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2023, event=Qatar Grand Prix, session=R: only 19 driver laps present
+year=2023, event=United States Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2023, event=United States Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2023, event=São Paulo Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2023, event=São Paulo Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2023, event=Las Vegas Grand Prix, session=FP1: only 19 driver laps present
+year=2023, event=Bahrain Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Bahrain Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Saudi Arabian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Saudi Arabian Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Australian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Australian Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Azerbaijan Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Azerbaijan Grand Prix, session=S: only 19 driver laps present
+year=2023, event=Miami Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Miami Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Monaco Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Monaco Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Spanish Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Spanish Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Canadian Grand Prix, session=FP1: only 16 driver laps present
+year=2023, event=Canadian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Canadian Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Austrian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=British Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=British Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Hungarian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Hungarian Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Belgian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Dutch Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Dutch Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Italian Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Italian Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Singapore Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Singapore Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Singapore Grand Prix, session=R: only 19 driver laps present
+year=2023, event=Japanese Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Japanese Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Qatar Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Qatar Grand Prix, session=R: only 19 driver laps present
+year=2023, event=United States Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Mexico City Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Mexico City Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=São Paulo Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Las Vegas Grand Prix, session=FP1: only 19 driver laps present
+year=2023, event=Las Vegas Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Las Vegas Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2023, event=Abu Dhabi Grand Prix, session=SQ: export failed: Session type 'SQ' does not exist for this event
+year=2023, event=Abu Dhabi Grand Prix, session=S: export failed: Session type 'S' does not exist for this event
+year=2025, event=Australian Grand Prix, session=FP2: only 19 driver laps present
+year=2025, event=Chinese Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=Chinese Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=Saudi Arabian Grand Prix, session=FP2: only 19 driver laps present
+year=2025, event=Miami Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=Miami Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=Spanish Grand Prix, session=R: only 19 drivers loaded
+year=2025, event=Spanish Grand Prix, session=R: only 19 driver laps present
+year=2025, event=Canadian Grand Prix, session=FP2: only 19 driver laps present
+year=2025, event=Belgian Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=Belgian Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=Azerbaijan Grand Prix, session=FP2: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Azerbaijan Grand Prix, session=FP3: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Azerbaijan Grand Prix, session=Q: only 0 drivers loaded
+year=2025, event=Azerbaijan Grand Prix, session=Q: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=United States Grand Prix, session=FP1: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=United States Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=United States Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=United States Grand Prix, session=Q: only 0 drivers loaded
+year=2025, event=United States Grand Prix, session=Q: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Mexico City Grand Prix, session=FP1: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Mexico City Grand Prix, session=FP2: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Mexico City Grand Prix, session=FP3: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Mexico City Grand Prix, session=Q: only 0 drivers loaded
+year=2025, event=Mexico City Grand Prix, session=Q: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=São Paulo Grand Prix, session=FP1: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=São Paulo Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=São Paulo Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=São Paulo Grand Prix, session=Q: only 0 drivers loaded
+year=2025, event=São Paulo Grand Prix, session=Q: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Las Vegas Grand Prix, session=FP1: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Las Vegas Grand Prix, session=FP2: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Las Vegas Grand Prix, session=FP3: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Las Vegas Grand Prix, session=Q: only 0 drivers loaded
+year=2025, event=Las Vegas Grand Prix, session=Q: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Las Vegas Grand Prix, session=R: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Qatar Grand Prix, session=FP1: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Qatar Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=Qatar Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=Qatar Grand Prix, session=Q: only 0 drivers loaded
+year=2025, event=Qatar Grand Prix, session=Q: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Abu Dhabi Grand Prix, session=FP1: only 0 drivers loaded
+year=2025, event=Abu Dhabi Grand Prix, session=FP1: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Abu Dhabi Grand Prix, session=FP2: only 0 drivers loaded
+year=2025, event=Abu Dhabi Grand Prix, session=FP2: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Abu Dhabi Grand Prix, session=FP3: only 0 drivers loaded
+year=2025, event=Abu Dhabi Grand Prix, session=FP3: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Abu Dhabi Grand Prix, session=Q: only 0 drivers loaded
+year=2025, event=Abu Dhabi Grand Prix, session=Q: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Abu Dhabi Grand Prix, session=R: only 0 drivers loaded
+year=2025, event=Abu Dhabi Grand Prix, session=R: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Australian Grand Prix, session=FP2: only 19 driver laps present
+year=2025, event=Chinese Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=Chinese Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=Saudi Arabian Grand Prix, session=FP2: only 19 driver laps present
+year=2025, event=Miami Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=Miami Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=Spanish Grand Prix, session=R: only 19 drivers loaded
+year=2025, event=Spanish Grand Prix, session=R: only 19 driver laps present
+year=2025, event=Canadian Grand Prix, session=FP2: only 19 driver laps present
+year=2025, event=Belgian Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=Belgian Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=United States Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=United States Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=São Paulo Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=São Paulo Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=São Paulo Grand Prix, session=Q: only 19 driver laps present
+year=2025, event=Qatar Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=Qatar Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=Abu Dhabi Grand Prix, session=FP3: only 0 drivers loaded
+year=2025, event=Abu Dhabi Grand Prix, session=FP3: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Abu Dhabi Grand Prix, session=Q: only 0 drivers loaded
+year=2025, event=Abu Dhabi Grand Prix, session=Q: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Abu Dhabi Grand Prix, session=R: only 0 drivers loaded
+year=2025, event=Abu Dhabi Grand Prix, session=R: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Australian Grand Prix, session=FP2: only 19 driver laps present
+year=2025, event=Chinese Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=Chinese Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=Saudi Arabian Grand Prix, session=FP2: only 19 driver laps present
+year=2025, event=Miami Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=Miami Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=Spanish Grand Prix, session=R: only 19 drivers loaded
+year=2025, event=Spanish Grand Prix, session=R: only 19 driver laps present
+year=2025, event=Canadian Grand Prix, session=FP2: only 19 driver laps present
+year=2025, event=Belgian Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=Belgian Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=United States Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=United States Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=São Paulo Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=São Paulo Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=São Paulo Grand Prix, session=Q: only 19 driver laps present
+year=2025, event=Qatar Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=Qatar Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=Abu Dhabi Grand Prix, session=FP3: only 0 drivers loaded
+year=2025, event=Abu Dhabi Grand Prix, session=FP3: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Abu Dhabi Grand Prix, session=Q: only 0 drivers loaded
+year=2025, event=Abu Dhabi Grand Prix, session=Q: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Abu Dhabi Grand Prix, session=R: only 0 drivers loaded
+year=2025, event=Abu Dhabi Grand Prix, session=R: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Australian Grand Prix, session=FP2: only 19 driver laps present
+year=2025, event=Chinese Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=Chinese Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=Saudi Arabian Grand Prix, session=FP2: only 19 driver laps present
+year=2025, event=Miami Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=Miami Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=Spanish Grand Prix, session=R: only 19 drivers loaded
+year=2025, event=Spanish Grand Prix, session=R: only 19 driver laps present
+year=2025, event=Canadian Grand Prix, session=FP2: only 19 driver laps present
+year=2025, event=Belgian Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=Belgian Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=United States Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=United States Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=São Paulo Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=São Paulo Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=São Paulo Grand Prix, session=Q: only 19 driver laps present
+year=2025, event=Qatar Grand Prix, session=FP2: export failed: Session type 'FP2' does not exist for this event
+year=2025, event=Qatar Grand Prix, session=FP3: export failed: Session type 'FP3' does not exist for this event
+year=2025, event=Abu Dhabi Grand Prix, session=FP3: only 0 drivers loaded
+year=2025, event=Abu Dhabi Grand Prix, session=FP3: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Abu Dhabi Grand Prix, session=Q: only 0 drivers loaded
+year=2025, event=Abu Dhabi Grand Prix, session=Q: export failed: The data you are trying to access has not been loaded yet. See `Session.load`
+year=2025, event=Abu Dhabi Grand Prix, session=R: only 0 drivers loaded
+year=2025, event=Abu Dhabi Grand Prix, session=R: export failed: The data you are trying to access has not been loaded yet. See `Session.load`

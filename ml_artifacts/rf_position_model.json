@@ -1,0 +1,27 @@
+{
+  "model_name": "rf_position_model",
+  "type": "RandomForestRegressor",
+  "feature_cols": [
+    "grid_position",
+    "driver_races_so_far",
+    "driver_avg_finish_prev",
+    "team_races_so_far",
+    "team_avg_finish_prev",
+    "circuit_avg_finish_prev"
+  ],
+  "n_rows": 1654,
+  "metrics": {
+    "mse": 21.830028334931185,
+    "position_accuracy": 0.09063444108761329
+  },
+  "feature_importances": {
+    "grid_position": 0.3497389903156784,
+    "driver_races_so_far": 0.07402143501489657,
+    "driver_avg_finish_prev": 0.10817042637097639,
+    "team_races_so_far": 0.08669731910511753,
+    "team_avg_finish_prev": 0.2969485488689118,
+    "circuit_avg_finish_prev": 0.08442328032441927
+  },
+  "seasons_min": 2020,
+  "seasons_max": 2025
+}
